@@ -18,3 +18,18 @@ Las cosas por hacer tras la lluvia de ideas son las siguientes:
 * Carto: Joshua y Samuel
 
 Fecha de control 2 semanas: *Viernes 17*
+
+# Reunion 2 (Viernes 17 de marzo)
+
+## Cosas hechas
+
+* Automatización y búsqueda de tweets
+
+## Cosas por hacer
+
+* Dejar R y pasar a alguna forma de representarlo (Falta 1 mes más o menos)
+* Dejar de usar Carto, para usar otra forma que lo realice de forma automática (Faltan 2/3 semanas)
+* Preparación del servidor (Ir a hablar con Albano sobre máquina IAAS)
+* Preparar de cara al futuro la plataforma.
+
+PROXIMA REUNION: 21 de abril
