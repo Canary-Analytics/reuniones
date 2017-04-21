@@ -51,5 +51,4 @@ Próxima semana:
 Objetivos futuros (3 semanas):
 
 * Generar informe sobre las estadísticas (xls o pdf): arzola y cosaca.
-* Integración de todas las partes: aitor, carlos, ramos y joshua.
-
+* Integración de todas las partes (con I18N): aitor, carlos, ramos y joshua.
