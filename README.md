@@ -1,4 +1,4 @@
-# Reunion 1 (Viernes 3 de Febrero
+# Reunion 1 (Viernes 3 de Febrero)
 
 ## Cosas por hacer 
 
@@ -33,3 +33,23 @@ Fecha de control 2 semanas: *Viernes 17*
 * Preparar de cara al futuro la plataforma.
 
 PROXIMA REUNION: 21 de abril
+
+# Reunion 3 (Viernes 21 de abril)
+
+## Cosas hechas
+
+* Wordcloud.
+* Servidor iaas corriendo.
+
+## Cosas por hacer
+
+Próxima semana: 
+
+* Sustitución de Carto, para hacerlo de forma automática: cosaca, ramos y joshua.
+* Definir estructura de la página: arzola, aitor y carlos.
+
+Objetivos futuros (3 semanas):
+
+* Generar informe sobre las estadísticas (xls o pdf): arzola y cosaca.
+* Integración de todas las partes: aitor, carlos, ramos y joshua.
+
